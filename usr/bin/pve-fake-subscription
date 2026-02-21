@@ -20,13 +20,13 @@ shared_key_data = "kjfdlskfhiuewhfk947368"
 server_key_file = "/etc/ssh/ssh_host_rsa_key.pub"
 
 # Default license keys
-lic_pve = "pve8p-1145141919"
-lic_pmg = "pmgp-1145141919"
-lic_pbs = "pbst-1145141919"
+lic_pve = "pve8p-8924239706"
+lic_pmg = "pmgp-8924239706"
+lic_pbs = "pbst-8924239706"
 
 # UI customization
-ui_product_name = "YajuuSenpai"
-ui_message = "Yajuu Senpai has got your back"
+ui_product_name = "PVE Fake Subscription"
+ui_message = "Disables the 'No valid subscription' dialog on all Proxmox products."
 ui_url = "https://github.com/Jamesits/pve-fake-subscription"
 
 def get_timestamp():
